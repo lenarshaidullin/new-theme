@@ -1,21 +1,21 @@
 <?php
 
-if(! defined('ABSPATH')) {
-  exit; // Exit if accessed directly.
-}
+  if(! defined('ABSPATH')) {
+    exit; // Exit if accessed directly.
+  }
 
-get_header();
+  get_header();
 
-?>
+  ?>
 
-<div class="section">
-  <div class="container">
-    <h1>404</h1>
+  <div class="section">
+    <div class="container">
+      <h1>404</h1>
+    </div>
   </div>
-</div>
 
-<?php
+  <?php
 
-get_footer();
+  get_footer();
 
 ?>
