@@ -4,6 +4,8 @@
     exit; // Exit if accessed directly.
   }
 
+  // 404
+
   get_header();
 
   ?>

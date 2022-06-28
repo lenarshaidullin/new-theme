@@ -1,6 +1,6 @@
 <?php
 
-  // FUNCTIONS BEGIN
+  // functions
 
   add_action('wp_enqueue_scripts', function() {
     wp_enqueue_script('jquery');
@@ -62,6 +62,6 @@
     
   }
 
-  // FUNCTIONS END
+  // functions end
   
 ?>

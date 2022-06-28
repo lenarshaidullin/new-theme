@@ -4,4 +4,6 @@
     exit; // Exit if accessed directly.
   }
 
+  // comments
+
 ?>
